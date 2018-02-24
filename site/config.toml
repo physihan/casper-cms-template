@@ -12,10 +12,10 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "physihan"
+  authorlocation = "changchun, China"
   authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  bio= "我的博客"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
