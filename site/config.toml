@@ -10,6 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
+staticman_api = "https://api.staticman.net/v2/entry/dancwilliams/networkhobo/master/comments" #Add staticman API URL to enable staticman comments
   description = "this is my description"
   cover = "images/cover.jpg"
   author = "physihan"
